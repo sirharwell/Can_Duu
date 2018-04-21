@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dollar: 1.5
+  start_date: MyString
+  end_date: MyString
+  comments: MyString
+  milestones: MyString
+
+two:
+  dollar: 1.5
+  start_date: MyString
+  end_date: MyString
+  comments: MyString
+  milestones: MyString
