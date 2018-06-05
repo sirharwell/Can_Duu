@@ -240,7 +240,7 @@
     3.times do
       obj = @category.sample
       category = obj[:category]
-      image = "https://dpl-can-duu.s3.us-east-2.amazonaws.com/photos/jobs/#{obj[:images].sample}"
+      image = "https://picsum.photos"
       desc = obj[:descript].sample
       name = @descriptive.sample + ' ' + obj[:title].sample
       Job.create(
