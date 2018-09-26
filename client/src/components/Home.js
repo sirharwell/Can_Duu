@@ -40,7 +40,7 @@ class Home extends React.Component {
             <Grid.Row centered>
               <Grid.Column style={{width: '125px'}}>
               <Link to='/createjob' centered style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
-                <Icon className='home' centered verticalAlign='middle' size='big'/> <Header textAlign='center' as="h3">Home Repair</Header>
+                <Icon className='home' centered verticalAlign='middle' size='big'/> <Header textAlign='center' as="h3">Home & Business Repair</Header>
               </Link>
               </Grid.Column>
               <Grid.Column style={{width: '125px'}}>
